@@ -151,11 +151,5 @@ Example `POST /predict` payload:
 - Build frontend: `npm run build` and serve static files
 - Containerize backend with Docker and run with an ASGI server behind a reverse proxy
 
-## Author
 
-- (Add author name and contact)
-
-## License
-
-- (Add license)
 
