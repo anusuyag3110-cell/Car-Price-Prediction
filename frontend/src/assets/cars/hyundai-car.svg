@@ -1,0 +1,9 @@
+<svg width="400" height="220" viewBox="0 0 400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" rx="24" fill="#1f2937"/>
+  <path d="M62 153C78 139 102 127 136 127H264C298 127 322 139 338 153" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M92 153V139C92 122 107 109 122 109H278C293 109 308 122 308 139V153" stroke="#fff" stroke-width="8"/>
+  <path d="M122 109C114 95 102 74 118 64C134 54 166 52 198 52C230 52 262 54 278 64C294 74 282 95 274 109" stroke="#fff" stroke-width="8"/>
+  <circle cx="118" cy="167" r="14" fill="#fff"/>
+  <circle cx="282" cy="167" r="14" fill="#fff"/>
+  <text x="200" y="190" fill="#fff" font-size="24" font-family="Poppins, sans-serif" text-anchor="middle">Hyundai</text>
+</svg>

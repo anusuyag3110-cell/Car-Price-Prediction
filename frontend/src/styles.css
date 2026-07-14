@@ -1,0 +1,10 @@
+@layer base {
+  body { font-family: 'Poppins', sans-serif; }
+}
+
+/* Minimal utility classes used by components */
+.bg-primary { background-color: #2563EB }
+.text-primary { color: #2563EB }
+.bg-secondary { background-color: #F97316 }
+.container { max-width: 1280px; margin: 0 auto; }
+.card { background: white; border-radius: 12px; box-shadow: 0 6px 18px rgba(8,15,28,0.06); }

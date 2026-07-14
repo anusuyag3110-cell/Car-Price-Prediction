@@ -1,0 +1,7 @@
+<svg width="400" height="220" viewBox="0 0 400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" rx="24" fill="#111827"/>
+  <path d="M62 153C78 139 102 127 136 127H264C298 127 322 139 338 153" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="116" cy="165" r="14" fill="#fff"/>
+  <circle cx="284" cy="165" r="14" fill="#fff"/>
+  <text x="200" y="190" fill="#fff" font-size="24" font-family="Poppins, sans-serif" text-anchor="middle">Hyundai</text>
+</svg>

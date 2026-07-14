@@ -1,0 +1,15 @@
+Brand,Model,Year,Kilometers,Fuel,Transmission,Seller_Type,Owners,Insurance,Service_History,Engine,Mileage,City,Target
+Toyota,Fortuner,2018,45000,Diesel,Manual,Dealer,1,Comprehensive,Full,2755,12,Delhi,2350000
+Hyundai,Creta,2020,20000,Petrol,Automatic,Individual,1,Comprehensive,Full,1497,16,Mumbai,900000
+Maruti,Swift,2019,30000,Petrol,Manual,Dealer,2,Third-Party,Partial,1197,18,Bengaluru,550000
+Mahindra,Scorpio,2017,60000,Diesel,Manual,Dealer,3,Comprehensive,Full,2179,13,Chennai,700000
+Tata,Harrier,2021,15000,Diesel,Automatic,Individual,1,Comprehensive,Full,1956,16,Delhi,1200000
+Honda,City,2019,25000,Petrol,Automatic,Dealer,1,Comprehensive,Full,1498,17,Mumbai,750000
+BMW,5 Series,2016,80000,Diesel,Automatic,Dealer,2,Comprehensive,Full,1995,14,Bengaluru,4200000
+Audi,A4,2018,40000,Petrol,Automatic,Individual,1,Comprehensive,Full,1984,15,Delhi,3200000
+Kia,Seltos,2020,22000,Petrol,Automatic,Dealer,1,Comprehensive,Full,1353,16,Chennai,1100000
+MG,Hector,2019,35000,Diesel,Manual,Individual,2,Third-Party,Partial,1956,14,Mumbai,650000
+BMW,5 Series,2016,80000,Diesel,Automatic,Dealer,2,Comprehensive,Full,1995,14,Bengaluru,4200000
+BMW,X5,2018,50000,Diesel,Automatic,Dealer,1,Comprehensive,Full,2998,12,Delhi,5500000
+BMW,X3,2020,30000,Petrol,Automatic,Individual,1,Comprehensive,Full,1998,14,Mumbai,4800000
+Audi,A6,2017,65000,Diesel,Automatic,Dealer,2,Comprehensive,Full,1968,15,Chennai,3800000

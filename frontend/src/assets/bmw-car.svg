@@ -1,0 +1,15 @@
+<svg width="400" height="220" viewBox="0 0 400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" rx="24" fill="#0F172A"/>
+  <path d="M66 155C80 141 104 128 138 128H262C296 128 320 141 334 155" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M90 155V140C90 123 103 108 118 108H282C297 108 310 123 310 140V155" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M118 108C110 95 98 74 114 64C129 54 160 52 190 52C220 52 251 54 266 64C282 74 270 95 262 108" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M88 155L80 168H104" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M312 155L320 168H296" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="122" cy="168" r="14" fill="#FFFFFF"/>
+  <circle cx="278" cy="168" r="14" fill="#FFFFFF"/>
+  <path d="M140 112H260" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M96 152H304" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M125 105L118 95" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M275 105L282 95" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <text x="200" y="190" fill="#FFFFFF" font-size="24" font-family="Poppins, sans-serif" text-anchor="middle">BMW 5 Series</text>
+</svg>

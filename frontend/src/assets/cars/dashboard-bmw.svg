@@ -1,0 +1,7 @@
+<svg width="400" height="220" viewBox="0 0 400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" rx="24" fill="#0F172A"/>
+  <path d="M62 154C76 140 100 128 134 128H266C300 128 324 140 338 154" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="122" cy="168" r="14" fill="#FFFFFF"/>
+  <circle cx="278" cy="168" r="14" fill="#FFFFFF"/>
+  <text x="200" y="190" fill="#FFFFFF" font-size="24" font-family="Poppins, sans-serif" text-anchor="middle">BMW</text>
+</svg>

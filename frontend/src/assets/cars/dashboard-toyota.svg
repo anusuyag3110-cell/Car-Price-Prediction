@@ -1,0 +1,7 @@
+<svg width="400" height="220" viewBox="0 0 400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" rx="24" fill="#1F2937"/>
+  <path d="M68 150C84 136 108 124 142 124H258C292 124 316 136 332 150" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="116" cy="168" r="14" fill="#fff"/>
+  <circle cx="284" cy="168" r="14" fill="#fff"/>
+  <text x="200" y="190" fill="#fff" font-size="24" font-family="Poppins, sans-serif" text-anchor="middle">Toyota</text>
+</svg>

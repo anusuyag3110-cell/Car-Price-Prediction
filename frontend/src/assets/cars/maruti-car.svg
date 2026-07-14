@@ -1,0 +1,9 @@
+<svg width="400" height="220" viewBox="0 0 400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" rx="24" fill="#111827"/>
+  <path d="M64 148C80 134 104 122 138 122H262C296 122 320 134 336 148" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M96 148V134C96 116 111 103 126 103H274C289 103 304 116 304 134V148" stroke="#fff" stroke-width="8"/>
+  <path d="M126 103C118 90 104 69 120 59C136 49 168 47 200 47C232 47 264 49 280 59C296 69 282 90 274 103" stroke="#fff" stroke-width="8"/>
+  <circle cx="118" cy="162" r="14" fill="#fff"/>
+  <circle cx="282" cy="162" r="14" fill="#fff"/>
+  <text x="200" y="190" fill="#fff" font-size="24" font-family="Poppins, sans-serif" text-anchor="middle">Maruti</text>
+</svg>

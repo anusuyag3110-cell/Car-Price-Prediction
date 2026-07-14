@@ -1,0 +1,9 @@
+<svg width="400" height="220" viewBox="0 0 400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" rx="24" fill="#0f172a"/>
+  <path d="M68 150C84 136 108 124 142 124H258C292 124 316 136 332 150" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M96 150V136C96 120 111 107 126 107H274C289 107 304 120 304 136V150" stroke="#fff" stroke-width="8"/>
+  <path d="M126 107C118 93 104 72 121 62C137 52 168 50 200 50C232 50 263 52 279 62C296 72 282 93 274 107" stroke="#fff" stroke-width="8"/>
+  <circle cx="118" cy="164" r="14" fill="#fff"/>
+  <circle cx="282" cy="164" r="14" fill="#fff"/>
+  <text x="200" y="190" fill="#fff" font-size="24" font-family="Poppins, sans-serif" text-anchor="middle">Toyota</text>
+</svg>

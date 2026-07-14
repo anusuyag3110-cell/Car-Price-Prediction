@@ -1,0 +1,7 @@
+<svg width="400" height="220" viewBox="0 0 400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="220" rx="24" fill="#0f172a"/>
+  <path d="M80 150C96 136 120 123 154 123H246C280 123 304 136 320 150" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="120" cy="166" r="14" fill="#fff"/>
+  <circle cx="280" cy="166" r="14" fill="#fff"/>
+  <text x="200" y="190" fill="#fff" font-size="18" font-family="Poppins, sans-serif" text-anchor="middle">Car preview</text>
+</svg>
